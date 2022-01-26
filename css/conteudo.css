@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(33, 117, 33);
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: white;
+}
