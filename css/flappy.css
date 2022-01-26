@@ -19,5 +19,37 @@
     width: 60px;
     left: calc(50% - 30px);
     bottom: calc(50%)
-    
+}
+.par-de-barreiras {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.barreira {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.barreira .borda {
+    height: 30px;
+    width: 130px;
+    background: linear-gradient(90deg, #639301, #a5e82e);
+    border: solid 2px black
+}
+.barreira .corpo {
+    height: 140px;
+    width: 110px;
+    background: linear-gradient(90deg, #639301, #a5e82e);
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+}
+.progresso {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-family: Pixel;
+    font-size: 70px;
 }
