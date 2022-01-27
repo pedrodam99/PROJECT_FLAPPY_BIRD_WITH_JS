@@ -8,11 +8,14 @@
 
 [wm-flappy] {
     position: relative;
-    border: 5px solid dodgerblue;
-    background-color: deepskyblue;
+    border: 5px solid purple;
     width: 1200px;
     height: 700px;
     overflow: hidden;
+}
+.background {
+    width: 90vw;
+    height: 90vh;
 }
 .passaro {
     position: absolute;
@@ -36,13 +39,13 @@
 .barreira .borda {
     height: 30px;
     width: 130px;
-    background: linear-gradient(90deg, #639301, #a5e82e);
+    background: linear-gradient(90deg, #170193, #7ca8cc);
     border: solid 2px black
 }
 .barreira .corpo {
     height: 140px;
     width: 110px;
-    background: linear-gradient(90deg, #639301, #a5e82e);
+    background: linear-gradient(90deg, #170193, #7ca8cc);
     border-left: solid 2px black;
     border-right: solid 2px black;
 }
