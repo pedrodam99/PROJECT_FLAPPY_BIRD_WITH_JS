@@ -7,5 +7,3 @@ manuseio da DOM.
 * Html
 * Css
 * Javascript
-
-### Como iniciar o projeto
