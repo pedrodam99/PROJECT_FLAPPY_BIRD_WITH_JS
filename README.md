@@ -1,4 +1,11 @@
-<h3> Flappy Bird </h3>
+ ## Projeto Flappy Bird
 
-Esse projeto oferecido pelo curso sobre web da *COD3R* tem como intúito treinar o 
-manuseio da DOM, e refinar os conhecimento em JS, HTML e Javascript. 
+Esse projeto oferecido pelo curso sobre web da **COD3R** tem como intúito de treinar o
+manuseio da DOM.
+
+### Tecnologias
+* Html
+* Css
+* Javascript
+
+### Como iniciar o projeto
