@@ -4,7 +4,10 @@ Esse projeto oferecido pelo curso sobre web da **COD3R** tem como intúito de tr
 manuseio da DOM e aperfeiçoar outros fundamentos.
 
 
-### Tecnologias
-HTML5 <br>
-CSS3 <br>
-Javascript <br>
+  
+  
+
+### Tecnologias Utilizadas
+<img align="center" alt="HTML-Icon" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML <br>
+<img align="center" alt="CSS-Icon" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS <br>
+<img align="center" alt="Js-Icon" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript <br>
