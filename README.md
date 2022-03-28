@@ -18,7 +18,7 @@ Node 16.
 Git Bash 4.
 ```
 
-## Instalação
+## 🎉 Instalação
 ```
 git clone git@github.com:pedrodam99/flappy-bird-with-js.git
 
